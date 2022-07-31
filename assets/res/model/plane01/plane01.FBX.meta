@@ -1,0 +1,76 @@
+{
+  "ver": "2.1.4",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bd8e9e2f-3b3b-4d7d-9dd4-c9f7e08a2590",
+  "files": [],
+  "subMetas": {
+    "fa5f7": {
+      "importer": "gltf-mesh",
+      "uuid": "bd8e9e2f-3b3b-4d7d-9dd4-c9f7e08a2590@fa5f7",
+      "displayName": "",
+      "id": "fa5f7",
+      "name": "plane01.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa4e8": {
+      "importer": "gltf-material",
+      "uuid": "bd8e9e2f-3b3b-4d7d-9dd4-c9f7e08a2590@aa4e8",
+      "displayName": "",
+      "id": "aa4e8",
+      "name": "plane01.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c13c3": {
+      "importer": "gltf-scene",
+      "uuid": "bd8e9e2f-3b3b-4d7d-9dd4-c9f7e08a2590@c13c3",
+      "displayName": "",
+      "id": "c13c3",
+      "name": "plane01.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "bd8e9e2f-3b3b-4d7d-9dd4-c9f7e08a2590@c13c3",
+    "assetFinder": {
+      "meshes": [
+        "bd8e9e2f-3b3b-4d7d-9dd4-c9f7e08a2590@fa5f7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bd8e9e2f-3b3b-4d7d-9dd4-c9f7e08a2590@aa4e8"
+      ],
+      "scenes": [
+        "bd8e9e2f-3b3b-4d7d-9dd4-c9f7e08a2590@c13c3"
+      ]
+    }
+  }
+}
